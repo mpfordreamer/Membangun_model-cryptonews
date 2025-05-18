@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dewam/Dokumen/Beasiswa%20Lomba%20and%20Goals/Laskar%20AI/Project/Membangun%20Sistem%20Machine%20Learning/submission/SMSML_demahesta/Membangun_model/mlruns/538477987063094121/6cfa32321ae34d03a1463d14bdef4fab/artifacts
+end_time: 1747491829500
+entry_point_name: ''
+experiment_id: '538477987063094121'
+lifecycle_stage: active
+run_id: 6cfa32321ae34d03a1463d14bdef4fab
+run_name: dapper-tern-270
+run_uuid: 6cfa32321ae34d03a1463d14bdef4fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747491818562
+status: 3
+tags: []
+user_id: dewam

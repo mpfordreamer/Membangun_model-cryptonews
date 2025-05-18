@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dewam/Dokumen/Beasiswa%20Lomba%20and%20Goals/Laskar%20AI/Project/Membangun%20Sistem%20Machine%20Learning/submission/SMSML_demahesta/Membangun_model/mlruns/538477987063094121/6768dd4feabd410bbc63a25950f5bdfc/artifacts
+end_time: 1747491643273
+entry_point_name: ''
+experiment_id: '538477987063094121'
+lifecycle_stage: active
+run_id: 6768dd4feabd410bbc63a25950f5bdfc
+run_name: masked-chimp-713
+run_uuid: 6768dd4feabd410bbc63a25950f5bdfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747491638097
+status: 3
+tags: []
+user_id: dewam
